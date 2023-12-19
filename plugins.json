@@ -473,7 +473,7 @@
     "provider": "yfletch",
     "name": "OC Rift [alpha]",
     "description": "One-click Guardians of the Rift",
-    "id": "ocriftalpha-plugin",
+    "id": "ocriftalpha2-plugin",
     "releases": [
       {
         "date": "2023-03-22",
@@ -499,7 +499,7 @@
       {
         "date": "2023-04-17",
         "sha512sum": "01180ECDDFFC742665A5C370A94C873AA4358A70B6D010F02F7860B0C841553A007CA2346A9495126A3470945DCD8E16C30FF1DF245B64FA9971D6CBFB643CDC",
-        "version": "0.0.7-alpha",
+        "version": "0.0.7-alpha-koekje",
         "url": "https://github.com/y-fletch/ocplugins/blob/main/release/ocrift-0.0.7-alpha.jar?raw=true",
         "requires": "^1.0.0"
       }
