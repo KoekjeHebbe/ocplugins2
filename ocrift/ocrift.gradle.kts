@@ -23,9 +23,9 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "0.0.7-alpha"
+version = "0.0.7-alpha-koekje"
 
-project.extra["PluginName"] = "OC Rift [alpha]"
+project.extra["PluginName"] = "OC Rift [alpha] koekje edit"
 project.extra["PluginDescription"] = "One-click Guardians of the Rift"
 
 dependencies {

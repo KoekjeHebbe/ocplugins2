@@ -8,7 +8,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import net.runelite.client.config.ConfigSection;
 
-@ConfigGroup("oc-rift")
+@ConfigGroup("oc-rift-V2")
 public interface RiftConfig extends Config
 {
 	@ConfigItem(

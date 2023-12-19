@@ -55,7 +55,7 @@ public class FillPouch extends ItemAction<RiftContext>
 	public void run(RiftContext ctx, WrappedEvent event)
 	{
 		int itemId = ctx.hasItem(pouch.getItemId()) ? pouch.getItemId() : pouch.getDegradedItemId();
-		event.overrideItemAction(2, MenuAction.CC_OP, itemId);
+		//event.overrideItemAction(2, MenuAction.CC_OP, itemId);
 
 		// _Immediately_ set this pouch as clicked -
 		// because the runner also ticks on menu events,
